@@ -1,17 +1,11 @@
 So uhhh hello!
 Im your local coding nerd who uhhhhhhhhhhhhh
 
+does stuff?? i think?
 
+Jokes aside, i am a passionate coder who just started out.
 
-
-
-
-
-
-
-
-
-does stuff??
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayreaverDoesThings&theme=tokyonight)
 
 <!---
 DayreaverDoesThings/DayreaverDoesThings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
