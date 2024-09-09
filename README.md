@@ -19,7 +19,7 @@ If you are seeing my profile for the first time, i recommend going to these proj
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DayreaverDoesThings&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=shell&logoColor=white)
+![Batchfile](https://img.shields.io/badge/Batchfile-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 
 
 <!---
