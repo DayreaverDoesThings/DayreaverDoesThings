@@ -18,6 +18,8 @@ If you are seeing my profile for the first time, i recommend going to these proj
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayreaverDoesThings&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DayreaverDoesThings&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### Languages i use
+
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Batchfile](https://img.shields.io/badge/Batchfile-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 
