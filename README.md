@@ -10,7 +10,7 @@ Jokes aside, i am a passionate coder who just started out.
 
 If you are seeing my profile for the first time, i recommend going to these projects:
 
-- [Needle Shell](https://github.com/YourUsername/Needle-Shell): A custom shell script project to handle system tasks efficiently.
+- [Needle Shell](https://github.com/DayreaverDoesThings/Needle-Shell): A custom shell script project to handle system tasks efficiently.
 - [DayreaverToolKit](https://github.com/DayreaverDoesThings/DayreaverToolKit): A toolkit for Windows that automates various tasks.
 
 ### Stats
